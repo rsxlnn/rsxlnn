@@ -15,7 +15,7 @@
 - MongoDB
 
 ## Contact me
-- Discord: pixel#1811
+- Discord: azaelreo#0001
 - Email: azaelreo.yt@gmail.com
 - V3rmillion: looking4pixel
 
