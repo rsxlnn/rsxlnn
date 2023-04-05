@@ -48,8 +48,6 @@ I have too much time on my hands... 🤦
 ### Following
 ![GitHub follower count](https://img.shields.io/github/followers/rsxlnn?style=social)
 ![GitHub star count](https://img.shields.io/github/stars/rsxlnn?style=social)<br>
-![YouTube view count](https://img.shields.io/youtube/channel/views/UCHpkw9gSLEvbc7v0O6LUP7w?style=social)
-![YouTube subscriber count](https://img.shields.io/youtube/channel/subscribers/UCHpkw9gSLEvbc7v0O6LUP7w?style=social)<br>
 ![Discord member count](https://img.shields.io/discord/1083157451261624371)
 ![Activity rating](https://img.shields.io/badge/active-yes-brightgreen)
 ![Subscribe, you should!](https://img.shields.io/badge/you%20should-subscribe-blue)<br>
